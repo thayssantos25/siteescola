@@ -1,0 +1,55 @@
+.cabeçalho-lista-item{
+
+   display: inline-block;
+
+   margin: 0 16px;
+
+   font-size: 24px;
+
+}
+
+
+
+.escola-imagem{
+
+   width: 25%;
+
+   display:flex;
+
+justify-content: center;
+
+justify-content: center;
+
+align-items: center;
+
+}
+
+
+
+.escola-titulo {
+
+   padding: 24px 0;
+
+   align-items: center;
+
+padding: 24px 0;
+
+   }
+
+.escola-conteudo{
+
+    width: 35%;
+
+}
+
+body{
+
+   font-family:’Poppins’,sans-serif;
+
+}
+
+.estudante-imagem{
+
+    width: 120px;
+
+}
